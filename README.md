@@ -1,1 +1,1 @@
-# bjj_notebook
+# bjj-notebook
