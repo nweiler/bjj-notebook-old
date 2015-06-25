@@ -25,7 +25,7 @@ db.once('open', function() {
   })
 
   app.listen(app.get('port'), function() {
-    console.log('Server running at http://localhost:%s', app.get('port'));
+    console.log('Server running at http://localhost:' + app.get('port'));
   })
 })
 
